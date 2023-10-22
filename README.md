@@ -11,7 +11,6 @@ website-figs
 ![TSGN](https://user-images.githubusercontent.com/26339035/125916754-6742d8e6-dbb0-4759-9ee8-6885c923bdd0.png)
 
 ## Subgraph Networks Based Contrastive Learning
-![SGNCL](https://github.com/GalateaWang/PaperFigs/blob/75725e8ecab0091161d728df8924c6871802243a/Edge-to-Node.pdf)
 ![SGNCL](https://github.com/GalateaWang/PaperFigs/blob/bb8da30843a0216f57f858876f977717410ca0ee/Edge-to-Node.png)
 
 ## Adversarial attack on BC classification for scale-free networks
